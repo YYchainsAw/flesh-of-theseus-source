@@ -1,0 +1,6 @@
+{
+    "name": "CollisionJam.Core",
+    "rootNamespace": "CollisionJam.Core",
+    "autoReferenced": true,
+    "noEngineReferences": true
+}
